@@ -1,0 +1,10 @@
+Spyliopoulos, 0, 0 1 2, 7, 45
+Kefala, 1, 0 1 2, 10, 50
+Argyri, 2, 3, 5, 45
+Gazoulis, 3, 3, 6, 50
+Germanou, 4, 4, 10, 55
+Kontopoulou, 5, 5, 15, 45
+Petroulas, 6, 6, 7, 45
+Souri, 7, 8, 6, 45
+Stavrakou, 8, 9, 8, 50
+Ntantaras, 9, 10, 12, 55
